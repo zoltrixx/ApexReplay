@@ -147,6 +147,8 @@ f1-race-replay/
 
 - Change track width, colors, and UI layout in `src/arcade_replay.py`.
 - Adjust telemetry processing in `src/f1_data.py`.
+- <img width="1470" height="956" alt="Screenshot 2026-04-19 at 7 38 50 PM" src="https://github.com/user-attachments/assets/cf9b6d54-2d12-4ac0-97c1-4cc6069cfd45" />
+
 
 ## Contributing
 
@@ -173,4 +175,4 @@ No copyright infringement intended. Formula 1 and related trademarks are the pro
 
 ---
 
-Built with ❤️ by [Tom Shaw](https://tomshaw.dev)
+
